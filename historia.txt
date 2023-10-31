@@ -1,7 +1,5 @@
 Esta es la historia de Diana Torres
 
-Dianita tiene 44 años y nació en Colombia.
+Dianita tiene 44 años y nació en Colombia
 
-Acaba de terminar una curso de React.js
-
-Hoy hablaremos de su vida y obra maestra.
+Mañana nos enfocaremos en su vida laboral.
