@@ -4,4 +4,4 @@ Dianita tiene 44 años y nació en Colombia.
 
 Acaba de terminar una curso de React.js
 
-Hoy hablaremos de su vida.
+Hoy hablaremos de su vida y obra maestra.
